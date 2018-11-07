@@ -1,0 +1,11 @@
+@import '~mapbox-gl/dist/mapbox-gl.css';
+
+.country-detail {
+  position: sticky;
+  top: 20px;
+}
+
+.map {
+  height: 200px;
+  width: 100%;
+}
