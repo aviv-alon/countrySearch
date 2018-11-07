@@ -57,7 +57,7 @@ class App extends React.Component {
     return (
       <main className="section">
         <div className="container">
-          <h1 className="title is-1"> Countries</h1>
+          <h1 className="title is-1">Country Search</h1>
           {this.state.countries ? (
             <div className="columns">
               <div className="column is-one-quarter-desktop is-half-tablet">
